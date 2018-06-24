@@ -1,0 +1,52 @@
+背景：我的日报里有我之前总结的大量干货，但是日报标题只能看到日期，无法知悉里面内容，
+故这里说明每个日期标题对应的里面的干货内容。
+
+https://blog.fondme.cn/apidoc/jdk-1.8-google/    java8api文档
+
+
+2018年04月29日          服务器上装maven.
+
+2018年04月05日  起      Linux相关
+2018年03月17日  起      sql语句相关
+2018年04月13日          Log4j最全配置
+2018年04月14日  起      打jar包相关
+2018年05月04日  起      打jar包后续
+
+2018年04月24日    任务二  jettty初识
+
+2018年04月28日  起      向服务器部署容器
+2018年05月01日          Nginx四个依赖组件的安装(openssl等)(nginx安装)
+2018年05月29日          Resin初识和配置
+2018年05月06日          一键部署等脚本书写和分析(当时的脚本还存在bug)
+
+
+2018年04月13日          日志
+2018年05月08日          任务三深度思考：  resin/tomcat/jetty配置优化链接；resin/tomcat/jetty官方文档链接等。
+
+2018年05月13日          jetty的一些配置。
+
+2018年05月20日           DES加密解密/密钥生成与存储/字节转16进制;
+                         git 命令使用，clone或push至github
+						 详细：这篇日报汇集了很多git的使用知识http://www.jnshu.com/daily/62649?dailyType=others&total=60&page=1&uid=23334&sort=0&orderBy=3
+
+2018年05月22日起         Memcached安装、配置、踩坑 
+
+2018年06月10日           JWT
+
+2018年06月17日           quartz和Spring配置，初识quartz;
+						 将项目打jar包，含jar包命令。
+						 
+2018年06月18日           springBoot入门。基本操作。
+
+
+2018年06月20日           jar包后台运行，RMI相关踩坑。
+2018年06月21日           Tuscany使用踩坑
+
+
+2018年06月22日           shiro初识
+
+2018年06月23日           1.ant风格路径; 2.lomok; 3.validator校验框架
+
+
+
+

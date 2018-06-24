@@ -1,0 +1,8 @@
+When it comes time
+
+L1:
+When it comes time for you to make the tough call.
+当你必须打这个艰难的电话的时刻到来时.
+分析：when it comes time for 意为“当某一时刻来临时”,这句话表示假定未来某一时刻成为了你不得不打这个电话的时候,你需要做的事情
+
+When it comes time to actually interact with security-related data like user accounts to perform authentication (login) and authorization (access control), Shiro looks up many of these things from one or more Realms configured for an application. 
